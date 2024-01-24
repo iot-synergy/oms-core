@@ -9,7 +9,7 @@
 [![Vben Admin](https://img.shields.io/badge/Vben%20Admin-v2.10.1-yellow.svg)](https://vvbin.cn/doc-next/)
 [![Ent](https://img.shields.io/badge/Ent-v0.12.5-blue.svg)](https://entgo.io/)
 [![Casbin](https://img.shields.io/badge/Casbin-v2.81.0-orange.svg)](https://github.com/casbin/casbin)
-[![Release](https://img.shields.io/badge/Release-v1.3.1-green.svg)](https://github.com/suyuan32/simple-admin-core/releases)
+[![Release](https://img.shields.io/badge/Release-v1.3.1-green.svg)](https://github.com/iot-synergy/oms-core/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SimpleAdmin](https://dcbadge.vercel.app/api/server/NDED5p2hJk)](https://discord.gg/NDED5p2hJk)
 ![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%87%A0%E9%A2%97%E9%85%A5-blue)
@@ -64,7 +64,7 @@ revenue, and now 10+ modules are included.
 
 ## Project Planning Progress
 
-[RoadMap](https://github.com/suyuan32/simple-admin-core/issues/63)
+[RoadMap](https://github.com/iot-synergy/oms-core/issues/63)
 
 ## Preview
 
@@ -104,20 +104,20 @@ Password:  simple-admin
 
 ## Relative Project
 
-- [Simple Admin](https://github.com/suyuan32/simple-admin-core)
+- [Simple Admin](https://github.com/iot-synergy/oms-core)
 - [Simple Admin Backend UI](https://github.com/suyuan32/simple-admin-backend-ui)
 
 ## Optional Components
 
 - [File Management](https://github.com/suyuan32/simple-admin-file)
-- [Scheduled Task](https://github.com/suyuan32/simple-admin-job)
+- [Scheduled Task](https://github.com/iot-synergy/synergy-job)
 - [Member Management](https://github.com/suyuan32/simple-admin-member-api)
-- [Message Center](https://github.com/suyuan32/simple-admin-message-center)
+- [Message Center](https://github.com/iot-synergy/synergy-message-center)
 
 
 ## How to contribute
 
-You are very welcome to join！[Raise an issue](https://github.com/suyuan32/simple-admin-core/issues/new) Or submit a Pull Request。
+You are very welcome to join！[Raise an issue](https://github.com/iot-synergy/oms-core/issues/new) Or submit a Pull Request。
 
 **Pull Request:**
 
@@ -149,11 +149,11 @@ You are very welcome to join！[Raise an issue](https://github.com/suyuan32/simp
 
 > [Discard](https://discord.gg/NDED5p2hJk)
 
-> [Discussion](https://github.com/suyuan32/simple-admin-core/discussions)
+> [Discussion](https://github.com/iot-synergy/oms-core/discussions)
 
 ## Stars
 
-[![Star History Chart](https://api.star-history.com/svg?repos=suyuan32/simple-admin-core&type=Date)](https://github.com/suyuan32/simple-admin-core)
+[![Star History Chart](https://api.star-history.com/svg?repos=iot-synergy/oms-core&type=Date)](https://github.com/iot-synergy/oms-core)
 
 
 ## Maintainer

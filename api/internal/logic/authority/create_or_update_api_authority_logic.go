@@ -2,13 +2,14 @@ package authority
 
 import (
 	"context"
+
 	"github.com/zeromicro/go-zero/core/errorx"
 
-	"github.com/suyuan32/simple-admin-common/i18n"
+	"github.com/iot-synergy/synergy-common/i18n"
 
-	"github.com/suyuan32/simple-admin-core/api/internal/svc"
-	"github.com/suyuan32/simple-admin-core/api/internal/types"
-	"github.com/suyuan32/simple-admin-core/rpc/types/core"
+	"github.com/iot-synergy/oms-core/api/internal/svc"
+	"github.com/iot-synergy/oms-core/api/internal/types"
+	"github.com/iot-synergy/oms-core/rpc/types/core"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

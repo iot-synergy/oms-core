@@ -10,9 +10,9 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/dictionary"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/dictionarydetail"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/predicate"
+	"github.com/iot-synergy/oms-core/rpc/ent/dictionary"
+	"github.com/iot-synergy/oms-core/rpc/ent/dictionarydetail"
+	"github.com/iot-synergy/oms-core/rpc/ent/predicate"
 )
 
 // DictionaryDetailQuery is the builder for querying DictionaryDetail entities.

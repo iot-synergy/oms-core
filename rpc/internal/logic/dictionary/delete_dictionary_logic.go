@@ -3,19 +3,19 @@ package dictionary
 import (
 	"context"
 
-	"github.com/suyuan32/simple-admin-core/rpc/internal/utils/entx"
+	"github.com/iot-synergy/oms-core/rpc/internal/utils/entx"
 
-	"github.com/suyuan32/simple-admin-core/rpc/ent"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/dictionary"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/dictionarydetail"
+	"github.com/iot-synergy/oms-core/rpc/ent"
+	"github.com/iot-synergy/oms-core/rpc/ent/dictionary"
+	"github.com/iot-synergy/oms-core/rpc/ent/dictionarydetail"
 
-	"github.com/suyuan32/simple-admin-core/rpc/internal/svc"
-	"github.com/suyuan32/simple-admin-core/rpc/internal/utils/dberrorhandler"
-	"github.com/suyuan32/simple-admin-core/rpc/types/core"
+	"github.com/iot-synergy/oms-core/rpc/internal/svc"
+	"github.com/iot-synergy/oms-core/rpc/internal/utils/dberrorhandler"
+	"github.com/iot-synergy/oms-core/rpc/types/core"
 
 	"github.com/zeromicro/go-zero/core/logx"
 
-	"github.com/suyuan32/simple-admin-common/i18n"
+	"github.com/iot-synergy/synergy-common/i18n"
 )
 
 type DeleteDictionaryLogic struct {

@@ -11,9 +11,9 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/menu"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/predicate"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/role"
+	"github.com/iot-synergy/oms-core/rpc/ent/menu"
+	"github.com/iot-synergy/oms-core/rpc/ent/predicate"
+	"github.com/iot-synergy/oms-core/rpc/ent/role"
 )
 
 // MenuQuery is the builder for querying Menu entities.

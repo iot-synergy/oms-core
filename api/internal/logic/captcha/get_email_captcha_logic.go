@@ -3,15 +3,16 @@ package captcha
 import (
 	"context"
 	"fmt"
-	"github.com/duke-git/lancet/v2/random"
-	"github.com/suyuan32/simple-admin-common/config"
-	"github.com/suyuan32/simple-admin-common/i18n"
-	"github.com/suyuan32/simple-admin-core/api/internal/svc"
-	"github.com/suyuan32/simple-admin-core/api/internal/types"
-	"github.com/suyuan32/simple-admin-message-center/types/mcms"
-	"github.com/zeromicro/go-zero/core/errorx"
 	"strconv"
 	"time"
+
+	"github.com/duke-git/lancet/v2/random"
+	"github.com/iot-synergy/oms-core/api/internal/svc"
+	"github.com/iot-synergy/oms-core/api/internal/types"
+	"github.com/iot-synergy/synergy-common/config"
+	"github.com/iot-synergy/synergy-common/i18n"
+	"github.com/iot-synergy/synergy-message-center/types/mcms"
+	"github.com/zeromicro/go-zero/core/errorx"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

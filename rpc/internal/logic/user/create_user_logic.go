@@ -3,14 +3,14 @@ package user
 import (
 	"context"
 
-	"github.com/suyuan32/simple-admin-common/utils/encrypt"
-	"github.com/suyuan32/simple-admin-common/utils/pointy"
+	"github.com/iot-synergy/synergy-common/utils/encrypt"
+	"github.com/iot-synergy/synergy-common/utils/pointy"
 
-	"github.com/suyuan32/simple-admin-core/rpc/internal/svc"
-	"github.com/suyuan32/simple-admin-core/rpc/internal/utils/dberrorhandler"
-	"github.com/suyuan32/simple-admin-core/rpc/types/core"
+	"github.com/iot-synergy/oms-core/rpc/internal/svc"
+	"github.com/iot-synergy/oms-core/rpc/internal/utils/dberrorhandler"
+	"github.com/iot-synergy/oms-core/rpc/types/core"
 
-	"github.com/suyuan32/simple-admin-common/i18n"
+	"github.com/iot-synergy/synergy-common/i18n"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

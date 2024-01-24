@@ -11,9 +11,9 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/department"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/predicate"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/user"
+	"github.com/iot-synergy/oms-core/rpc/ent/department"
+	"github.com/iot-synergy/oms-core/rpc/ent/predicate"
+	"github.com/iot-synergy/oms-core/rpc/ent/user"
 )
 
 // DepartmentQuery is the builder for querying Department entities.

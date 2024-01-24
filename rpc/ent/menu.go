@@ -9,7 +9,7 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/menu"
+	"github.com/iot-synergy/oms-core/rpc/ent/menu"
 )
 
 // Menu is the model entity for the Menu schema.

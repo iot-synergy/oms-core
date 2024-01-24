@@ -3,11 +3,11 @@ package authority
 import (
 	"context"
 
-	"github.com/suyuan32/simple-admin-core/rpc/ent/role"
+	"github.com/iot-synergy/oms-core/rpc/ent/role"
 
-	"github.com/suyuan32/simple-admin-core/rpc/internal/svc"
-	"github.com/suyuan32/simple-admin-core/rpc/internal/utils/dberrorhandler"
-	"github.com/suyuan32/simple-admin-core/rpc/types/core"
+	"github.com/iot-synergy/oms-core/rpc/internal/svc"
+	"github.com/iot-synergy/oms-core/rpc/internal/utils/dberrorhandler"
+	"github.com/iot-synergy/oms-core/rpc/types/core"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

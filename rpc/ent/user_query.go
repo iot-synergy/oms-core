@@ -12,11 +12,11 @@ import (
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
 	uuid "github.com/gofrs/uuid/v5"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/department"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/position"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/predicate"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/role"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/user"
+	"github.com/iot-synergy/oms-core/rpc/ent/department"
+	"github.com/iot-synergy/oms-core/rpc/ent/position"
+	"github.com/iot-synergy/oms-core/rpc/ent/predicate"
+	"github.com/iot-synergy/oms-core/rpc/ent/role"
+	"github.com/iot-synergy/oms-core/rpc/ent/user"
 )
 
 // UserQuery is the builder for querying User entities.

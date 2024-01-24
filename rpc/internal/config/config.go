@@ -1,10 +1,10 @@
 package config
 
 import (
-	"github.com/suyuan32/simple-admin-common/plugins/casbin"
+	"github.com/iot-synergy/synergy-common/plugins/casbin"
 	"github.com/zeromicro/go-zero/zrpc"
 
-	"github.com/suyuan32/simple-admin-common/config"
+	"github.com/iot-synergy/synergy-common/config"
 )
 
 type Config struct {

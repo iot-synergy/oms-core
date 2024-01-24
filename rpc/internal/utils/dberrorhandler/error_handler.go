@@ -4,11 +4,11 @@ import (
 	"github.com/zeromicro/go-zero/core/errorx"
 	"github.com/zeromicro/go-zero/core/logx"
 
-	"github.com/suyuan32/simple-admin-common/msg/logmsg"
+	"github.com/iot-synergy/synergy-common/msg/logmsg"
 
-	"github.com/suyuan32/simple-admin-common/i18n"
+	"github.com/iot-synergy/synergy-common/i18n"
 
-	"github.com/suyuan32/simple-admin-core/rpc/ent"
+	"github.com/iot-synergy/oms-core/rpc/ent"
 )
 
 // DefaultEntError returns errors dealing with default functions.

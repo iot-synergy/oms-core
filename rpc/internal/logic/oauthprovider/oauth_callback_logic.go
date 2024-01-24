@@ -8,23 +8,23 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/suyuan32/simple-admin-common/msg/logmsg"
-	"github.com/suyuan32/simple-admin-common/utils/pointy"
+	"github.com/iot-synergy/synergy-common/msg/logmsg"
+	"github.com/iot-synergy/synergy-common/utils/pointy"
 	"github.com/zeromicro/go-zero/core/errorx"
 	"golang.org/x/oauth2"
 	"google.golang.org/grpc/codes"
 	"google.golang.org/grpc/status"
 
-	"github.com/suyuan32/simple-admin-common/i18n"
+	"github.com/iot-synergy/synergy-common/i18n"
 
-	"github.com/suyuan32/simple-admin-core/rpc/ent"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/oauthprovider"
-	"github.com/suyuan32/simple-admin-core/rpc/ent/user"
+	"github.com/iot-synergy/oms-core/rpc/ent"
+	"github.com/iot-synergy/oms-core/rpc/ent/oauthprovider"
+	"github.com/iot-synergy/oms-core/rpc/ent/user"
 
-	user2 "github.com/suyuan32/simple-admin-core/rpc/internal/logic/user"
-	"github.com/suyuan32/simple-admin-core/rpc/internal/svc"
-	"github.com/suyuan32/simple-admin-core/rpc/internal/utils/dberrorhandler"
-	"github.com/suyuan32/simple-admin-core/rpc/types/core"
+	user2 "github.com/iot-synergy/oms-core/rpc/internal/logic/user"
+	"github.com/iot-synergy/oms-core/rpc/internal/svc"
+	"github.com/iot-synergy/oms-core/rpc/internal/utils/dberrorhandler"
+	"github.com/iot-synergy/oms-core/rpc/types/core"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

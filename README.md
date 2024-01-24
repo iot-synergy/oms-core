@@ -9,7 +9,7 @@
 [![Vben Admin](https://img.shields.io/badge/Vben%20Admin-v2.10.1-yellow.svg)](https://vvbin.cn/doc-next/)
 [![Ent](https://img.shields.io/badge/Ent-v0.12.5-blue.svg)](https://entgo.io/)
 [![Casbin](https://img.shields.io/badge/Casbin-v2.81.0-orange.svg)](https://github.com/casbin/casbin)
-[![Release](https://img.shields.io/badge/Release-v1.3.1-green.svg)](https://github.com/suyuan32/simple-admin-core/releases)
+[![Release](https://img.shields.io/badge/Release-v1.3.1-green.svg)](https://github.com/iot-synergy/oms-core/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![SimpleAdmin](https://dcbadge.vercel.app/api/server/NDED5p2hJk)](https://discord.gg/NDED5p2hJk)
 ![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E5%87%A0%E9%A2%97%E9%85%A5-blue)
@@ -62,7 +62,7 @@ Doge 是 Simple Admin 的模块下载部署的命令行工具，提供模块源�
 
 ## 项目规划进度
 
-[RoadMap](https://github.com/suyuan32/simple-admin-core/issues/63)
+[RoadMap](https://github.com/iot-synergy/oms-core/issues/63)
 
 ## 预览
 
@@ -104,19 +104,19 @@ Doge 是 Simple Admin 的模块下载部署的命令行工具，提供模块源�
 
 ## 相关项目
 
-- [Simple Admin](https://github.com/suyuan32/simple-admin-core)
+- [Simple Admin](https://github.com/iot-synergy/oms-core)
 - [Simple Admin 后端界面](https://github.com/suyuan32/simple-admin-backend-ui)
 
 ## 可选组件
 
 - [文件管理](https://github.com/suyuan32/simple-admin-file)
-- [定时任务](https://github.com/suyuan32/simple-admin-job)
+- [定时任务](https://github.com/iot-synergy/synergy-job)
 - [会员管理](https://github.com/suyuan32/simple-admin-member-api)
-- [消息中心模块](https://github.com/suyuan32/simple-admin-message-center)
+- [消息中心模块](https://github.com/iot-synergy/synergy-message-center)
 
 ## 如何贡献
 
-非常欢迎你的加入！[提一个 Issue](https://github.com/suyuan32/simple-admin-core/issues/new) 或者提交一个 Pull Request。
+非常欢迎你的加入！[提一个 Issue](https://github.com/iot-synergy/oms-core/issues/new) 或者提交一个 Pull Request。
 
 **Pull Request:**
 
@@ -148,13 +148,13 @@ Doge 是 Simple Admin 的模块下载部署的命令行工具，提供模块源�
 
 > [Discord](https://discord.gg/NDED5p2hJk)
 
-> [论坛](https://github.com/suyuan32/simple-admin-core/discussions)
+> [论坛](https://github.com/iot-synergy/oms-core/discussions)
 
 > 关注公众号 《几颗酥》 加入微信群
 
 ## Stars
 
-[![Star History Chart](https://api.star-history.com/svg?repos=suyuan32/simple-admin-core&type=Date)](https://github.com/suyuan32/simple-admin-core)
+[![Star History Chart](https://api.star-history.com/svg?repos=iot-synergy/oms-core&type=Date)](https://github.com/iot-synergy/oms-core)
 
 ## 维护者
 
